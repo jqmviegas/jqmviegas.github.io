@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://jqmviegas.github.io/publication/detection_ntls_review/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +25,25 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>http://jqmviegas.github.io/publication/classification_elec/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takagi-Sugeno fuzzy modeling using mixed fuzzy clustering</title>
+      <link>http://jqmviegas.github.io/publication/ts_mfc/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jqmviegas.github.io/publication/ts_mfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics for three-dimensional steel cutting with usable leftovers considering large time periods</title>
+      <link>http://jqmviegas.github.io/publication/3d_bin_packing/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jqmviegas.github.io/publication/3d_bin_packing/</guid>
+      <description></description>
     </item>
     
   </channel>
