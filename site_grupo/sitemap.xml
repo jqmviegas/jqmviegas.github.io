@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jqmviegas.github.io/site_grupo/team/jlviegas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/site_grupo/team/csalgado/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/site_grupo/team/andre/</loc>
+  </url>
+  
+  <url>
     <loc>https://jqmviegas.github.io/site_grupo/highlights/awesome_award_example/</loc>
     <lastmod>2017-06-24T00:00:00+00:00</lastmod>
   </url>
@@ -10,16 +22,6 @@
   <url>
     <loc>https://jqmviegas.github.io/site_grupo/publications/2016/06/14/ts_mfc/</loc>
     <lastmod>2016-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jqmviegas.github.io/site_grupo/team/andre/</loc>
-    <lastmod>2008-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jqmviegas.github.io/site_grupo/team/jlviegas/</loc>
-    <lastmod>2008-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -51,13 +53,11 @@
   
   <url>
     <loc>https://jqmviegas.github.io/site_grupo/position/phd-student/</loc>
-    <lastmod>2008-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jqmviegas.github.io/site_grupo/position/</loc>
-    <lastmod>2008-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +80,6 @@
   
   <url>
     <loc>https://jqmviegas.github.io/site_grupo/team/</loc>
-    <lastmod>2008-06-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
