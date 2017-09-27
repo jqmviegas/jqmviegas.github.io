@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Position on Site grupo</title>
+    <link>https://jqmviegas.github.io/site_grupo/position/</link>
+    <description>Recent content in Position on Site grupo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 24 Jun 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jqmviegas.github.io/site_grupo/position/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phd Student</title>
+      <link>https://jqmviegas.github.io/site_grupo/position/phd-student/</link>
+      <pubDate>Tue, 24 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://jqmviegas.github.io/site_grupo/position/phd-student/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
