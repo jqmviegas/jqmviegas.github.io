@@ -52,11 +52,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="http://jqmviegas.github.io/publication/classification_elec/">
+  <link rel="canonical" href="http://jqmviegas.github.io/publication/detection_ntls/">
 
   
 
-  <title>Classification of new electricity customers based on surveys and smart metering data | </title>
+  <title>Clustering-based novelty detection for identification of non-technical losses | </title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -130,17 +130,17 @@
 
   
 <div class="article-header">
-  <img src="/img/headers/solars.jpg" class="article-banner" itemprop="image">
+  <img src="/img/headers/wires.jpg" class="article-banner" itemprop="image">
   
 </div>
 
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">Classification of new electricity customers based on surveys and smart metering data</h1>
+    <h1 itemprop="name">Clustering-based novelty detection for identification of non-technical losses</h1>
     <span class="pub-authors" itemprop="author">
       
-      JL Viegas, SM Vieira, R Melício, VMF Mendes, JMC Sousa
+      JL Viegas, PR Esteves, SM Vieira
       
     </span>
     <span class="pull-right">
@@ -149,35 +149,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fclassification_elec%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fdetection_ntls%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Classification%20of%20new%20electricity%20customers%20based%20on%20surveys%20and%20smart%20metering%20data&amp;url=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fclassification_elec%2f"
+         href="https://twitter.com/intent/tweet?text=Clustering-based%20novelty%20detection%20for%20identification%20of%20non-technical%20losses&amp;url=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fdetection_ntls%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fclassification_elec%2f&amp;title=Classification%20of%20new%20electricity%20customers%20based%20on%20surveys%20and%20smart%20metering%20data"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fdetection_ntls%2f&amp;title=Clustering-based%20novelty%20detection%20for%20identification%20of%20non-technical%20losses"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fclassification_elec%2f&amp;title=Classification%20of%20new%20electricity%20customers%20based%20on%20surveys%20and%20smart%20metering%20data"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fdetection_ntls%2f&amp;title=Clustering-based%20novelty%20detection%20for%20identification%20of%20non-technical%20losses"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Classification%20of%20new%20electricity%20customers%20based%20on%20surveys%20and%20smart%20metering%20data&amp;body=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fclassification_elec%2f">
+         href="mailto:?subject=Clustering-based%20novelty%20detection%20for%20identification%20of%20non-technical%20losses&amp;body=http%3a%2f%2fjqmviegas.github.io%2fpublication%2fdetection_ntls%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -194,7 +194,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">This paper proposes a process for the classification of new residential electricity customers. The current state of the art is extended by using a combination of smart metering and survey data and by using model-based feature selection for the classification task. Firstly, the normalized representative consumption profiles of the population are derived through the clustering of data from households. Secondly, new customers are classified using survey data and a limited amount of smart metering data. Thirdly, regression analysis and model-based feature selection results explain the importance of the variables and which are the drivers of different consumption profiles, enabling the extraction of appropriate models. The results of a case study show that the use of survey data significantly increases accuracy of the classification task (up to 20%). Considering four consumption groups, more than half of the customers are correctly classified with only one week of metering data, with more weeks the accuracy is significantly improved. The use of model-based feature selection resulted in the use of a significantly lower number of features allowing an easy interpretation of the derived models.</p>
+  <p class="pub-abstract" itemprop="text">The reduction of non-technical losses is a significant part of the total potential benefits resulting from implementations of the smart grid concept. This paper proposes a data-based method to detect sources of theft and other commercial losses. Prototypes of typical consumption behavior are extracted through clustering of data collected from smart meters. A distance-based novelty detection framework classifies new data samples as malign if their distance to the typical consumption prototypes is significant. The proposed method works on the space of four different indicators of irregular consumption, enabling the easy interpretation of results. A use case based on real data is presented to evaluate the method. The threat model considers sixteen different possible types of changes in consumption pattern that result from non-technical losses, including attacks and defects present since the first day of metering. The proposed clustering-based novelty detection method for identification of non-technical losses, using the Gustafson-Kessel fuzzy clustering algorithm, achieves a true positive rate of 63.6% and false positive rate of 24.3%, outperforming other state-of-the-art unsupervised learning methods.</p>
 
   
   <div class="row">
@@ -221,7 +221,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">Energy, Volume 107, 15 July 2016, Pages 804-817</div>
+        <div class="col-xs-12 col-sm-9">International Journal of Electrical Power &amp; Energy Systems, Volume 101, October 2017, Pages 301-3010</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -234,7 +234,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          July, 2016
+          October, 2018
         </div>
       </div>
     </div>
@@ -254,7 +254,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://www.researchgate.net/publication/303028599_Classification_of_new_electricity_customers_based_on_surveys_and_smart_metering_data">
+<a class="btn btn-primary btn-outline" href="https://www.researchgate.net/publication/327990152_Clustering-based_novelty_detection_for_identification_of_non-technical_losses">
   PDF
 </a>
 
@@ -264,7 +264,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://www.sciencedirect.com/science/article/pii/S0360544216304789">
+<a class="btn btn-primary btn-outline" href="https://www.sciencedirect.com/science/article/pii/S0142061517326467">
   Link
 </a>
 
@@ -287,13 +287,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="http://jqmviegas.github.io/publication/ts_mfc/"><span
-      aria-hidden="true">&larr;</span> Takagi-Sugeno fuzzy modeling using mixed fuzzy clustering</a></li>
+    <li class="previous"><a href="http://jqmviegas.github.io/publication/detection_ntls_review/"><span
+      aria-hidden="true">&larr;</span> Solutions for detection of non-technical losses in the electricity grid: A review</a></li>
     
 
-    
-    <li class="next"><a href="http://jqmviegas.github.io/publication/detection_ntls_review/">Solutions for detection of non-technical losses in the electricity grid: A review <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

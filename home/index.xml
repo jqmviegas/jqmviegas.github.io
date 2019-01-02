@@ -6,9 +6,47 @@
     <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Joaquim Viegas</copyright>
+    <copyright>&amp;copy; 2019 Joaquim Viegas</copyright>
     <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://jqmviegas.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://jqmviegas.github.io/home/about/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://jqmviegas.github.io/home/about/</guid>
+      <description>Biography Joaquim Viegas is a PhD candidate in Sustainable Energy Systems in the MIT Portugal program. He was awarded a PhD Studentship in Industry from FCT (Portuguese national funding agency for science, research and technology) in 2014 to pursue research in partnership with Novabase Business Solutions. In 2018 he was hired by IDMEC - IST to lead a team in an Industry 4.0 project consisting on the development of novel solutions in the fields of Optimization, Simulation and Automation.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://jqmviegas.github.io/home/publications_selected/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://jqmviegas.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://jqmviegas.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://jqmviegas.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://jqmviegas.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jqmviegas.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
