@@ -1,116 +1,140 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication/detection_ntls/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/publication_types/2/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication/detection_ntls_review/</loc>
-      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/authors/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/publication/deeplearning_forecasting/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/authors/jl-viegas/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication/classification_elec/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication/ts_mfc/</loc>
-      <lastmod>2016-06-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/authors/m-solas/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication/3d_bin_packing/</loc>
-      <lastmod>2016-01-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/authors/n-cepeda/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/</loc>
-      <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/publication_types/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication_types/2/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/publication/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/publication/detection_ntls/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/publication_types/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/authors/pr-esteves/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>http://jqmviegas.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jqmviegas.github.io/authors/sm-vieira/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/jmc-sousa/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/r-melicio/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/publication/detection_ntls_review/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/vmf-mendes/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/publication/classification_elec/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/cm-salgado/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/cs-azevedo/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/mc-ferreira/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/publication/ts_mfc/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/emp-henriques/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/publication/3d_bin_packing/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jqmviegas.github.io/tags/</loc>
+  </url>
   
 </urlset>

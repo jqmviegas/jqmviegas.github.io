@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Cepeda | jqmviegas - academic profile</title>
+    <link>https://jqmviegas.github.io/authors/n-cepeda/</link>
+      <atom:link href="https://jqmviegas.github.io/authors/n-cepeda/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Cepeda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Joaquim Viegas</copyright><lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jqmviegas.github.io/img/icon-192.png</url>
+      <title>N Cepeda</title>
+      <link>https://jqmviegas.github.io/authors/n-cepeda/</link>
+    </image>
+    
+    <item>
+      <title>Convolutional Neural Network for Short-term Wind Power Forecasting</title>
+      <link>https://jqmviegas.github.io/publication/deeplearning_forecasting/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/publication/deeplearning_forecasting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

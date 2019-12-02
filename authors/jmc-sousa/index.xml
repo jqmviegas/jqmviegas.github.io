@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JMC Sousa | jqmviegas - academic profile</title>
+    <link>https://jqmviegas.github.io/authors/jmc-sousa/</link>
+      <atom:link href="https://jqmviegas.github.io/authors/jmc-sousa/index.xml" rel="self" type="application/rss+xml" />
+    <description>JMC Sousa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Joaquim Viegas</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jqmviegas.github.io/img/icon-192.png</url>
+      <title>JMC Sousa</title>
+      <link>https://jqmviegas.github.io/authors/jmc-sousa/</link>
+    </image>
+    
+    <item>
+      <title>Solutions for detection of non-technical losses in the electricity grid: A review</title>
+      <link>https://jqmviegas.github.io/publication/detection_ntls_review/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/publication/detection_ntls_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of new electricity customers based on surveys and smart metering data</title>
+      <link>https://jqmviegas.github.io/publication/classification_elec/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/publication/classification_elec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takagi-Sugeno fuzzy modeling using mixed fuzzy clustering</title>
+      <link>https://jqmviegas.github.io/publication/ts_mfc/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/publication/ts_mfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics for three-dimensional steel cutting with usable leftovers considering large time periods</title>
+      <link>https://jqmviegas.github.io/publication/3d_bin_packing/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/publication/3d_bin_packing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

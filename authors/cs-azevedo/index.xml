@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS Azevedo | jqmviegas - academic profile</title>
+    <link>https://jqmviegas.github.io/authors/cs-azevedo/</link>
+      <atom:link href="https://jqmviegas.github.io/authors/cs-azevedo/index.xml" rel="self" type="application/rss+xml" />
+    <description>CS Azevedo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Joaquim Viegas</copyright><lastBuildDate>Tue, 14 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jqmviegas.github.io/img/icon-192.png</url>
+      <title>CS Azevedo</title>
+      <link>https://jqmviegas.github.io/authors/cs-azevedo/</link>
+    </image>
+    
+    <item>
+      <title>Takagi-Sugeno fuzzy modeling using mixed fuzzy clustering</title>
+      <link>https://jqmviegas.github.io/publication/ts_mfc/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/publication/ts_mfc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

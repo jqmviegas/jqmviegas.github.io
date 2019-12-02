@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | jqmviegas - academic profile</title>
+    <link>https://jqmviegas.github.io/authors/</link>
+      <atom:link href="https://jqmviegas.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Joaquim Viegas</copyright><lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jqmviegas.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://jqmviegas.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>JL Viegas</title>
+      <link>https://jqmviegas.github.io/authors/jl-viegas/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/jl-viegas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Solas</title>
+      <link>https://jqmviegas.github.io/authors/m-solas/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/m-solas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Cepeda</title>
+      <link>https://jqmviegas.github.io/authors/n-cepeda/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/n-cepeda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PR Esteves</title>
+      <link>https://jqmviegas.github.io/authors/pr-esteves/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/pr-esteves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SM Vieira</title>
+      <link>https://jqmviegas.github.io/authors/sm-vieira/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/sm-vieira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JMC Sousa</title>
+      <link>https://jqmviegas.github.io/authors/jmc-sousa/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/jmc-sousa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Melício</title>
+      <link>https://jqmviegas.github.io/authors/r-melicio/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/r-melicio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VMF Mendes</title>
+      <link>https://jqmviegas.github.io/authors/vmf-mendes/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/vmf-mendes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CM Salgado</title>
+      <link>https://jqmviegas.github.io/authors/cm-salgado/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/cm-salgado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS Azevedo</title>
+      <link>https://jqmviegas.github.io/authors/cs-azevedo/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/cs-azevedo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MC Ferreira</title>
+      <link>https://jqmviegas.github.io/authors/mc-ferreira/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/mc-ferreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EMP Henriques</title>
+      <link>https://jqmviegas.github.io/authors/emp-henriques/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/emp-henriques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jqmviegas.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Joaquim Viegas holds a PhD degree in Sustainable Energy Systems from the MIT Portugal Program at Instituto Superior Técnico, University of Lisbon. He is an Invited Assistant Professor at IST and is a researcher in an Industry 4.0 project, leading the team responsible for research and development of novel solutions in the fields of Data Science, Simulation, Optimization and Automation for an industrial partner.&lt;/p&gt;
+&lt;p&gt;He is a researcher at IDMEC - IST, his research focuses on two areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Research and development in  Optimization and Operations Research to solve industrial problems in fields such as Scheduling, Vehicle Routing and Cutting &amp;amp; Packing. Strong focus on metaheuristic approaches such as Genetic Algorithms and Ant Colony Optimization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Application of Machine Learning and Intelligent Data Modelling techniques to develop innovative solutions for Electricity Utilities, namely on the field of consumer segmentation, demand forecasting, detection of non-technical losses and fault prediction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Research on novel Automation solutions and frameworks in under Industry 4.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

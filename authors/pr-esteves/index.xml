@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PR Esteves | jqmviegas - academic profile</title>
+    <link>https://jqmviegas.github.io/authors/pr-esteves/</link>
+      <atom:link href="https://jqmviegas.github.io/authors/pr-esteves/index.xml" rel="self" type="application/rss+xml" />
+    <description>PR Esteves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Joaquim Viegas</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jqmviegas.github.io/img/icon-192.png</url>
+      <title>PR Esteves</title>
+      <link>https://jqmviegas.github.io/authors/pr-esteves/</link>
+    </image>
+    
+    <item>
+      <title>Clustering-based novelty detection for identification of non-technical losses</title>
+      <link>https://jqmviegas.github.io/publication/detection_ntls/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jqmviegas.github.io/publication/detection_ntls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
